@@ -1,8 +1,4 @@
-let companyName = 'Scuber';
-const mostProfitableNeighborhood = 'Chelsea'
-const companyCeo = 'Susan Smith'
-
-const companyName = 'scuber'
+const companyName = 'Scuber'
 let mostProfitableNeighborhood = 'Chelsea'
 let companyCeo = 'Susan Smith'
 
